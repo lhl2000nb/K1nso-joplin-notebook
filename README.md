@@ -1,2 +1,2 @@
-# K1nso-photobed
-For markdown's photo
+# K1nso-joplin notebook
+For saving
